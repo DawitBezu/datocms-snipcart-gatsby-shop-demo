@@ -18,10 +18,6 @@
   }
 }
 
-.Product:hover .Product__image {
-  img {
-    transform: skew(-15deg, -5deg) rotate(20deg);
-  }
 
 .Product__details {
   display: flex;
